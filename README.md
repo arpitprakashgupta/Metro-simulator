@@ -76,22 +76,6 @@ python3 2025103_metro_simulator.py
 
 ---
 
-## 📸 Screenshots 
-
-### 🕒 Upcoming Metro Schedule
-### Input1
-
-![alt text](<Screenshot 2025-11-24 at 8.10.21 PM.png>)
----
-### Input2
-![alt text](<Screenshot 2025-11-24 at 8.10.41 PM.png>)
-### 🚇 Route Planning Examples
-### Input1
-![alt text](<Screenshot 2025-11-24 at 8.11.05 PM.png>)
----
-### Input2
-![alt text](<Screenshot 2025-11-24 at 8.11.47 PM.png>)
----
 
 
 
